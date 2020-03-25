@@ -3,11 +3,12 @@
 
 # Commands to execute:
 
-git clone https://github.com/MookambikaKanawalli/qantas.git
+git clone https://github.com/MookambikaKanawalli/cba-test.git
 
 yarn install
 
-# Execute these 2 commands in a separate terminal >>>>>>>>>>>>
+# Execute these 2 commands in a separate terminal 
+
 yarn webdriver-manager update
 
 yarn webdriver-manager start
